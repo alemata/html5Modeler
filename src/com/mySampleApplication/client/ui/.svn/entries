@@ -1,0 +1,34 @@
+10
+
+dir
+3905
+svn://repository.ekuar.com/repository/ekuar/gwthtml5/src/com/mySampleApplication/client/ui
+svn://repository.ekuar.com/repository
+
+
+
+2012-08-17T16:21:04.803873Z
+3905
+alejandro
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7412678b-9dec-674b-ad61-ac0e16a0f531
+
+forms
+dir
+
+popup
+dir
+

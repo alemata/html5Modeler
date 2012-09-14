@@ -1,0 +1,138 @@
+<html>
+<head>
+
+
+    <script src="js/kinetic/kinetic-v3.10.5.min.js"></script>
+    <script src="js/model/Utils.js"></script>
+    <script src="js/event/EventsDispatcher.js"></script>
+    <script src="js/manager/LayersManager.js"></script>
+    <script src="js/manager/ProcessManager.js"></script>
+    <script src="js/model/BPMNStart.js"></script>
+    <script src="js/model/BPMNEnd.js"></script>
+    <script src="js/model/BPMNTask.js"></script>
+    <script src="js/model/BPMNConnector.js"></script>
+    <script src="js/model/BPMNIntermediate.js"></script>
+    <script src="js/model/BPMNOr.js"></script>
+    <script>
+
+
+        var messagesLayer;
+
+        var stage;
+        var connectorsLayer;
+        var tasksLayer;
+        var modelMapping;
+
+        function createStage() {
+            return new Kinetic.Stage({
+                container:"container",
+                width: window.innerWidth,
+                height: window.innerHeight
+            });
+        }
+
+
+        function writeMessage(messageLayer, message) {
+            var context = messageLayer.getContext();
+            messageLayer.clear();
+            context.font = "12pt Calibri";
+            context.fillStyle = "black";
+            context.fillText(message, 10, stage.getHeight() - 10);
+        }
+
+
+        window.onload = function () {
+
+            // Add event listener for redraw conectors
+            window.addEventListener('redrawConnectors', function (evt) {
+                connectorsLayer.draw();
+            }, false);
+
+            // Add event listener for dragging (dummy.. necessary by gwt interface)
+            window.addEventListener('elementMoved', function (evt) {
+                console.log("ID: " + evt.elementId + "   x:" + evt.x + "    y:" + evt.y);
+            }, false);
+
+            // Add event listener for double click (dummy.. necessary by gwt interface)
+            window.addEventListener('bpmnElementDoubleClick', function (evt) {
+                console.log("ID: " + evt.elementId);
+            }, false);
+
+            // creates the model mapping
+            modelMapping = new DrawWithModelRelation();
+
+            // Crea stage
+            stage = createStage();
+            // Crea layers
+            messagesLayer = new Kinetic.Layer();
+            tasksLayer = new Kinetic.Layer();
+
+            connectorsLayer = new Kinetic.Layer();
+            // Agrega layers al stage
+            stage.add(connectorsLayer);
+            stage.add(tasksLayer);
+
+            stage.add(messagesLayer);
+
+            var task = new Task("Id1", 100, 100, "aa");
+            var task2 = new Task("Id2", 200, 200, "bb");
+            var start = new Start("Id3", 80, 80, "start");
+            var end = new End("Id4", 300, 300, "end");
+            var intermediate = new Intermediate("Id5", 250, 250, "intermediate");
+            var gateway = new Or("Id6", 350, 350, "gateway");
+
+            modelMapping.add(task);
+            modelMapping.add(task2);
+            modelMapping.add(start);
+            modelMapping.add(end);
+            modelMapping.add(intermediate);
+            modelMapping.add(gateway);
+
+
+            var conn1 = new Connector("Id7", modelMapping.getBPMNElementForGraphicElement(task.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(gateway.getGraphicElement()), "1");
+            var conn2 = new Connector("Id8", modelMapping.getBPMNElementForGraphicElement(start.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(task.getGraphicElement()), "2");
+            var conn3 = new Connector("Id9", modelMapping.getBPMNElementForGraphicElement(task2.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(end.getGraphicElement()), "3");
+            var conn4 = new Connector("Id10", modelMapping.getBPMNElementForGraphicElement(start.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(end.getGraphicElement()), "4");
+            var conn5 = new Connector("Id11", modelMapping.getBPMNElementForGraphicElement(gateway.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(task2.getGraphicElement()), "5");
+            var conn6 = new Connector("Id12", modelMapping.getBPMNElementForGraphicElement(gateway.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(intermediate.getGraphicElement()), "6");
+            var conn7 = new Connector("Id13", modelMapping.getBPMNElementForGraphicElement(intermediate.getGraphicElement()),
+                    modelMapping.getBPMNElementForGraphicElement(end.getGraphicElement()), "7");
+
+
+            tasksLayer.add(task.getGraphicElement());
+            tasksLayer.add(task2.getGraphicElement());
+            tasksLayer.add(start.getGraphicElement());
+            tasksLayer.add(end.getGraphicElement());
+            tasksLayer.add(intermediate.getGraphicElement());
+            tasksLayer.add(gateway.getGraphicElement());
+
+            connectorsLayer.add(conn1.getGraphicElement());
+            connectorsLayer.add(conn2.getGraphicElement());
+            connectorsLayer.add(conn3.getGraphicElement());
+            connectorsLayer.add(conn4.getGraphicElement());
+            connectorsLayer.add(conn5.getGraphicElement());
+            connectorsLayer.add(conn6.getGraphicElement());
+            connectorsLayer.add(conn7.getGraphicElement());
+
+
+            stage.draw();
+        };
+    </script>
+</head>
+
+<body>
+
+<div id="container"></div>
+
+<div>
+    <button onclick="lala()">LALAAA</button>
+</div>
+
+</body>
+</html>

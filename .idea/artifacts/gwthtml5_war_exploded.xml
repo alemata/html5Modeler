@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gwthtml5:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/gwthtml5_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gwthtml5" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/lib/hibernate3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-logging.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/commons-io-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/postgresql-9.1-902.jdbc4.jar" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="gwthtml5/web/Web" />
+      <element id="gwt-compiler-output" facet="gwthtml5/gwt/GWT" />
+    </root>
+  </artifact>
+</component>

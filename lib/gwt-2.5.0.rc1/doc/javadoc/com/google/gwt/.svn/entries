@@ -1,0 +1,148 @@
+10
+
+dir
+3895
+svn://repository.ekuar.com/repository/ekuar/gwthtml5/lib/gwt-2.5.0.rc1/doc/javadoc/com/google/gwt
+svn://repository.ekuar.com/repository
+
+
+
+2012-08-10T15:10:50.045931Z
+3881
+alemata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7412678b-9dec-674b-ad61-ac0e16a0f531
+
+activity
+dir
+
+animation
+dir
+
+aria
+dir
+
+benchmarks
+dir
+
+canvas
+dir
+
+cell
+dir
+
+codegen
+dir
+
+core
+dir
+
+debug
+dir
+
+dom
+dir
+
+editor
+dir
+
+event
+dir
+
+geolocation
+dir
+
+http
+dir
+
+i18n
+dir
+
+json
+dir
+
+jsonp
+dir
+
+junit
+dir
+
+layout
+dir
+
+logging
+dir
+
+media
+dir
+
+place
+dir
+
+precompress
+dir
+
+regexp
+dir
+
+resources
+dir
+
+rpc
+dir
+
+safecss
+dir
+
+safehtml
+dir
+
+storage
+dir
+
+text
+dir
+
+touch
+dir
+
+typedarrays
+dir
+
+uibinder
+dir
+
+user
+dir
+
+useragent
+dir
+
+util
+dir
+
+view
+dir
+
+widget
+dir
+
+xhr
+dir
+
+xml
+dir
+

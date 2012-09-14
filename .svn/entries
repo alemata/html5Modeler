@@ -1,0 +1,75 @@
+10
+
+dir
+3923
+svn://repository.ekuar.com/repository/ekuar/gwthtml5
+svn://repository.ekuar.com/repository
+
+
+
+2012-08-14T18:35:06.240976Z
+3895
+alejandro
+
+
+
+
+
+
+
+
+
+
+
+
+
+incomplete
+7412678b-9dec-674b-ad61-ac0e16a0f531
+
+.idea
+dir
+
+gwthtml5.iml
+file
+3906
+
+
+
+
+b097ea3d05cd6fae98301d08c67425ec
+2012-08-21T16:08:17.080970Z
+3906
+axel
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NO COMMIT
+
+lib
+dir
+
+out
+dir
+
+src
+dir
+
+war
+dir
+

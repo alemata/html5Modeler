@@ -1,0 +1,173 @@
+<html>
+<head>
+
+    <!--                                           -->
+    <!-- Any title is fine                         -->
+    <!--                                           -->
+    <title>Wrapper HTML for App</title>
+
+    <link type="text/css" rel="stylesheet" href="MySampleApplication.css">
+
+    <script src="js/kinetic/kinetic-v3.10.5.min.js"></script>
+    <script src="js/model/Utils.js"></script>
+    <script src="js/model/Round.js"></script>
+    <script src="js/model/Rectangular.js"></script>
+    <script src="js/event/EventsDispatcher.js"></script>
+    <script src="js/manager/LayersManager.js"></script>
+    <script src="js/manager/ProcessManager.js"></script>
+    <script src="js/event/EventListenersStartup.js"></script>
+    <script src="js/model/BPMNStart.js"></script>
+    <script src="js/model/BPMNEnd.js"></script>
+    <script src="js/model/BPMNTask.js"></script>
+    <script src="js/model/BPMNConnector.js"></script>
+    <script src="js/model/DummyConnector.js"></script>
+    <script src="js/model/BPMNIntermediate.js"></script>
+    <script src="js/model/BPMNOr.js"></script>
+    <script src="js/model/BPMNAnd.js"></script>
+
+
+    <script>
+        var stage;
+
+        var selectedElement = null;
+        var previousElement = null;
+        var selectedGroup = null;
+
+
+        var STAGEWIDTH = 1000;
+        var STAGEHEIGHT = 400;
+
+        function createStage(id) {
+            var elementById = document.getElementById(id);
+            return new Kinetic.Stage({
+                        container:elementById,
+                        width:STAGEWIDTH,
+                        height:STAGEHEIGHT
+                    });
+        }
+
+        var processManager;
+        var layersManager;
+
+
+        function addTask(id, name, x, y) {
+            var task = new Task(id, x, y, name);
+            processManager.addElement(task);
+        }
+
+        function addStart(id, name, x, y) {
+            var start = new Start(id, x, y, name);
+            processManager.addElement(start);
+        }
+
+        function addEnd(id, name, x, y) {
+            var end = new End(id, x, y, name);
+            processManager.addElement(end);
+        }
+
+        function addOr(id, name, x, y) {
+            var or = new Or(id, x, y, name);
+            processManager.addElement(or);
+        }
+
+        function addAnd(id, name, x, y) {
+            var and = new And(id, x, y, name);
+            processManager.addElement(and);
+        }
+
+        function addIntermediate(id, name, x, y, type) {
+            var intermediate = new Intermediate(id, x, y, name);
+            intermediate.setIntermediateType(type);
+            processManager.addElement(intermediate);
+        }
+
+        function deleteElement(id) {
+            processManager.removeElement(id);
+        }
+
+        function deleteConnector(id) {
+            processManager.removeConnector(id);
+        }
+
+        function clearProcess() {
+            processManager.clearProcess();
+        }
+
+        <!--Se encarga del proceso de elegir source y target de una sequence-->
+        function initAddSequenceAction(id, name) {
+            layersManager.writeMessage("Select from activity");
+            var fromGroup;
+            var toGroup;
+
+            layersManager.addEventListener("mousedown", LayersManager.TASKS_LAYER, function () {
+                fromGroup = event.shape.getParent();
+                layersManager.writeMessage("Select to activity");
+                layersManager.removeEventListener("mousedown", LayersManager.TASKS_LAYER);
+
+                var bpmnFrom = processManager.getBPMNElementForGraphicElement(fromGroup);
+
+                var connectorDummy = DummyConnector.createDummyConnector();  //Creates a dummy connector only to be drawn on mouse movement
+                layersManager.addEventListener("mousemove", LayersManager.STAGE_LAYER, function () {
+                    DummyConnector.redrawConnectorOnMouseMovement(connectorDummy, bpmnFrom);
+                });
+
+                layersManager.addEventListener("mousedown", LayersManager.TASKS_LAYER, function () {
+                    toGroup = event.shape.getParent();
+                    layersManager.writeMessage("");
+                    layersManager.removeEventListener("mousedown", LayersManager.TASKS_LAYER);
+
+
+                    var bpmnTo = processManager.getBPMNElementForGraphicElement(toGroup);
+
+                    layersManager.removeEventListener("mousemove", LayersManager.STAGE_LAYER);
+
+                    var connector = new Connector(id, bpmnFrom, bpmnTo, name);
+                    dispatchSequenceAddedEvent(connector, bpmnFrom, bpmnTo);
+                });
+            });
+        }
+
+        <!--Agrega la sequence a la vista-->
+        function addSequence(id, name, fromId, toId) {
+            var bpmnFrom = processManager.getBPMNElementForId(fromId);
+            var bpmnTo = processManager.getBPMNElementForId(toId);
+            var connector = new Connector(id, bpmnFrom, bpmnTo, name);
+            processManager.addConnector(connector);
+        }
+
+        function addCanvas(id) {
+            // Adds events listeners
+            new EventListenersStartup().init();
+
+            // Creates the stage
+            stage = createStage(id);
+
+            // creates managers
+            layersManager = new LayersManager(stage);
+            processManager = new ProcessManager(layersManager);
+
+            // Draws the stage
+            stage.draw();
+        }
+
+    </script>
+
+
+    <!--                                            -->
+    <!-- This script is required bootstrap stuff.   -->
+    <!--                                            -->
+    <script type="text/javascript" language="javascript"
+            src="MySampleApplication/MySampleApplication.nocache.js"></script>
+
+
+</head>
+
+<!--                                           -->
+<!-- The body can have arbitrary html, or      -->
+<!-- you can leave the body empty if you want  -->
+<!-- to create a completely dynamic ui         -->
+<!--                                           -->
+<body onkeydown="deleteShape(event)">
+<div id="slot1" style="position: relative; "></div>
+</body>
+</html>

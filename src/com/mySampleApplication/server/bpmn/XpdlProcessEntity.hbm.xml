@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+
+<!DOCTYPE hibernate-mapping
+        PUBLIC "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping auto-import="false">
+    <class name="com.mySampleApplication.server.bpmn.XpdlProcessEntity" table="xpdl_process">
+
+        <id name="dbid" type="long" column="DBID" unsaved-value="null">
+            <generator class="native"/>
+        </id>
+
+        <property name="name" type="string">
+            <column name="name" not-null="true"/>
+        </property>
+
+        <property name="xpdl" type="string">
+            <column name="xpdl" not-null="true" sql-type="text"/>
+        </property>
+
+    </class>
+
+</hibernate-mapping>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/doc/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/SimpleXML/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/MobileWebApp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/MobileWebApp/src/test/java" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/LogExample/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/Showcase/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/SimpleRPC/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/DynaTable/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/DynaTableRf/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/Validation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/Validation/src/main/resources/com/google/gwt/sample/validation/super" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/Expenses/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/Mail/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/JSON/src" />
+      <root url="file://$PROJECT_DIR$/lib/gwt-2.5.0.rc1/samples/Hello/src" />
+      <root url="jar://$PROJECT_DIR$/lib/smartgwt.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>

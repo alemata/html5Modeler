@@ -1,0 +1,1866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="55ca32af-1943-4249-b74b-fdc74d6e79c7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/IntermediatePropertiesForm.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/ElementFormsManager.java" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/ElementFormsManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/war/js/model/BPMNIntermediate.js" afterPath="$PROJECT_DIR$/war/js/model/BPMNIntermediate.js" />
+    </list>
+    <list id="6b67dfd1-819e-452e-b003-0d927431e8c7" name="NO COMMIT" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/client/xml/generator/tmp.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/gwthtml5_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/gwthtml5_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gwthtml5.iml" afterPath="$PROJECT_DIR$/gwthtml5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml" afterPath="$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml" />
+    </list>
+    <ignored path="gwthtml5.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml" changelist="55ca32af-1943-4249-b74b-fdc74d6e79c7" time="1345747755535" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/mySampleApplication/client/xml/generator/tmp.xml" changelist="55ca32af-1943-4249-b74b-fdc74d6e79c7" time="1345821647412" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gwthtml5" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DefaultPropertiesForm.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/DefaultPropertiesForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="13" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntermediatePropertiesForm.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/IntermediatePropertiesForm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="16" selection-start="697" selection-end="697" vertical-scroll-proportion="0.39151713">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/widgets/form/fields/FormItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4080" column="16" selection-start="213363" selection-end="213363" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1323687600000" expanded="true" signature="157541:158072" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="157711:158065" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="158203:158310" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="159805:160174" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="160037:160073" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="160079:160168" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="161776:162488" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="161955:162480" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="163245:163806" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="163418:163799" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="164099:164208" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="165019:165552" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="165190:165545" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="166228:166773" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="166405:166766" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="167398:167931" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="167569:167924" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="168071:168181" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="170099:170387" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="172517:173064" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="172909:173035" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="173814:173939" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="174190:174308" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="175001:175122" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="175516:175821" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="176108:176225" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="176509:176625" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="177435:177930" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="177762:177901" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="178485:178608" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="179583:179896" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="179759:179795" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="179801:179890" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="180110:180213" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="181004:181568" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="181179:181561" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="182402:183026" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="182580:183019" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="184571:184697" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="185019:185323" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="185186:185222" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="185228:185317" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="185595:185896" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="185759:185795" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="185801:185890" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="186371:186674" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="186537:186573" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="186579:186668" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="187666:188207" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="187841:188200" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="188883:189572" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="189063:189564" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="190259:190983" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="190440:190975" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="191641:192326" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="191819:192318" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="193009:193179" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="194717:195042" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="194905:194941" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="194947:195036" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="195256:195359" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="195580:195688" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="196382:196925" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="196558:196918" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="197674:198229" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="197856:198222" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="199242:199785" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="199418:199778" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="200284:200394" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="200619:200921" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="200784:200820" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="200826:200915" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="201501:201960" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="201629:201951" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="207510:207685" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="207752:208000" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="208069:208310" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="208381:208621" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="208694:208869" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="208947:209122" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="209191:209432" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="209505:209746" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="209820:209945" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="210020:210145" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="210216:210341" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="210415:210540" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="210624:210749" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="210798:210912" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="219005:219120" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="221705:221908" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="221808:221853" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="221859:221902" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="221962:222165" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222065:222110" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222116:222159" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222322:222525" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222425:222470" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222476:222519" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222680:222996" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222892:222939" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="222945:222990" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="223153:223356" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="223256:223301" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="223307:223350" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="223514:223717" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="223617:223662" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="223668:223711" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="225199:225402" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="225302:225347" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="225353:225396" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="225633:225895" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="225736:225849" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="225855:225889" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="226138:226346" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="226241:226300" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="226306:226340" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="226646:226849" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="226749:226804" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="226810:226843" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="227147:227349" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="227250:227304" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="227310:227343" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="227537:227843" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="227640:227795" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="227801:227837" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228005:228307" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228108:228259" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228265:228301" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228484:228631" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228587:228625" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228703:229107" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="228886:229059" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="229065:229101" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="229179:229591" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="229366:229543" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="229549:229585" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="229797:230312" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="229927:230179" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="230117:230169" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="230212:230283" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="234400:235146" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="234549:235137" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="235369:235899" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="235505:235890" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="235550:235600" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="236508:237446" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="236660:237438" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="237808:238471" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="237949:238462" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="238841:239505" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="238983:239496" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="239743:240041" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="239842:239993" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="239999:240035" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="240463:240736" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="240583:240630" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="240636:240677" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="241125:241278" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="241230:241272" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="242460:243395" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="242614:243386" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="244313:245253" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="244473:245245" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="245879:246634" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="246030:246625" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="247063:247412" placeholder="{...}" />
+                <marker date="1323687600000" expanded="true" signature="247198:247403" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ElementFormsManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/ElementFormsManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="55" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopUpManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/popup/PopUpManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="50" selection-start="817" selection-end="817" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1858#2098#0" expanded="true" />
+                <element signature="e#2087#2088#0" expanded="true" />
+                <element signature="e#2342#2553#0" expanded="true" />
+                <element signature="e#2542#2543#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GwtCompilerConfiguration">
+    <show-output>
+      <module name="gwthtml5" />
+    </show-output>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/war/js/model/BPMNEnd.js" />
+        <option value="$PROJECT_DIR$/war/js/model/BPMNTask.js" />
+        <option value="$PROJECT_DIR$/war/js/model/Round.js" />
+        <option value="$PROJECT_DIR$/war/js/model/Rectangular.js" />
+        <option value="$PROJECT_DIR$/war/js/manager/SelectionManager.js" />
+        <option value="$PROJECT_DIR$/war/MySampleApplication.html" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/bpmn/Start.java" />
+        <option value="$PROJECT_DIR$/war/js/manager/ProcessManager.js" />
+        <option value="$PROJECT_DIR$/war/js/model/BPMNOr.js" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/DefaultPropertiesForm.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/popup/PopUpManager.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/AbstractPropertiesForm.java" />
+        <option value="$PROJECT_DIR$/war/js/model/BPMNIntermediate.js" />
+        <option value="$PROJECT_DIR$/war/js/model/Utils.js" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/ElementFormsManager.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/IntermediatePropertiesForm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1366" />
+    <option name="width" value="1680" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kinetic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="war" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="event" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="popup" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="managers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bpmn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gwthtml5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mySampleApplication.client.ui.forms" />
+      <recent name="com.mySampleApplication.client.bpmn" />
+      <recent name="com.mySampleApplication.client.listeners" />
+      <recent name="com.mySampleApplication.server.commons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/war/js/model" />
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$/war/conf" />
+      <recent name="$PROJECT_DIR$/src/com/mySampleApplication/server/bpmn" />
+      <recent name="$PROJECT_DIR$/war/js" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree">
+    <UpdateInfo date="Moments ago" ActionInfo="_Update">
+      <UpdatedFiles>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated from server" />
+          <option name="myStatusName" value="Changed on server" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CHANGED_ON_SERVER" />
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Updated" />
+            <option name="myStatusName" value="Changed" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="UPDATED" />
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/src/com/mySampleApplication/client/bpmn/BpmnProcess.java</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/js/model/BPMNOr.js</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/js/model/BPMNAnd.js</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/js/model/BPMNIntermediate.js</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/MySampleApplication.html</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Created" />
+            <option name="myStatusName" value="Created" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="CREATED" />
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/src/com/mySampleApplication/client/bpmn/Intermediate.java</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/img</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/img/intermediate_message.png</PATH>
+            <PATH vcs="svn" revision="">$PROJECT_DIR$/war/img/intermediate_timer.png</PATH>
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Deleted" />
+            <option name="myStatusName" value="Deleted" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="true" />
+            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          </FILE-GROUP>
+          <FILE-GROUP>
+            <option name="myUpdateName" value="Restored" />
+            <option name="myStatusName" value="Will be restored" />
+            <option name="mySupportsDeletion" value="false" />
+            <option name="myCanBeAbsent" value="false" />
+            <option name="myId" value="RESTORED" />
+          </FILE-GROUP>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Modified" />
+          <option name="myStatusName" value="Modified" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MODIFIED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Skipped" />
+          <option name="myStatusName" value="Skipped" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SKIPPED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with conflicts" />
+          <option name="myStatusName" value="Will be merged with conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_CONFLICTS" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with tree conflicts" />
+          <option name="myStatusName" value="Merged with tree conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged" />
+          <option name="myStatusName" value="Will be merged" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Not in repository" />
+          <option name="myStatusName" value="Not in repository" />
+          <option name="mySupportsDeletion" value="true" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UNKNOWN" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally added" />
+          <option name="myStatusName" value="Locally added" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_ADDED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Locally removed" />
+          <option name="myStatusName" value="Locally removed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="LOCALLY_REMOVED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Switched" />
+          <option name="myStatusName" value="Switched" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="SWITCHED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Merged with property conflicts" />
+          <option name="myStatusName" value="Will be merged with property conflicts" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+        </FILE-GROUP>
+      </UpdatedFiles>
+    </UpdateInfo>
+  </component>
+  <component name="RunManager" selected="GWT Configuration.MySampleApplication">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="MySampleApplication" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="gwthtml5" />
+      <option name="VM_PARAMETERS" value="-Xmx256m " />
+      <option name="RUN_PAGE" value="MySampleApplication.html" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/MySampleApplication.html" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="gwthtml5:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_gwthtml5" />
+      </server-settings>
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Cover" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="60440" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="gwthtml5:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="GWT Configuration.MySampleApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/.idea" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ca32af-1943-4249-b74b-fdc74d6e79c7" name="Default" comment="" />
+      <changelist id="6b67dfd1-819e-452e-b003-0d927431e8c7" name="NO COMMIT" comment="" />
+      <created>1344516991110</created>
+      <updated>1344516991110</updated>
+    </task>
+    <task id="LOCAL-00001" summary="SIJH-3 Integrating js model with MySampleApplication">
+      <created>1344968008103</created>
+      <updated>1344968008103</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SIJH-3 XML parse">
+      <created>1344969288100</created>
+      <updated>1344969288100</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SIJH-3 Id from gwt side. ElementModed listener to update model information.">
+      <created>1345045941129</created>
+      <updated>1345045941129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="SIJH-3 Add sequence support.">
+      <created>1345061623101</created>
+      <updated>1345061623101</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SIJH-3 Load process from xpdl!">
+      <created>1345129165101</created>
+      <updated>1345129165101</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SIJH-6 SmartGWT added">
+      <created>1345213935100</created>
+      <updated>1345213935100</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SIJH-8 Tabs created, and some code cleanup.">
+      <created>1345650076103</created>
+      <updated>1345650076103</updated>
+    </task>
+    <task id="LOCAL-00009" summary="SIJH-2 Add sequence working. Needs some refactor.">
+      <created>1345665307101</created>
+      <updated>1345665307101</updated>
+    </task>
+    <task id="LOCAL-00010" summary="SIJH-2 Add or element.">
+      <created>1345748558100</created>
+      <updated>1345748558100</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SIJH-5 Changing properties of tasks working.">
+      <created>1345822046100</created>
+      <updated>1345822046100</updated>
+    </task>
+    <task id="LOCAL-00012" summary="SIJH-10 Fixing bug on And element">
+      <created>1345823594100</created>
+      <updated>1345823594100</updated>
+    </task>
+    <task id="LOCAL-00013" summary="SIJH-10 added And element">
+      <created>1345832816101</created>
+      <updated>1345832816101</updated>
+    </task>
+    <task id="LOCAL-00014" summary="SIJH-12 and and or support added.">
+      <created>1345832893101</created>
+      <updated>1345832893101</updated>
+    </task>
+    <task id="LOCAL-00015" summary="SIJH-5 And element is updated when properties are edited.">
+      <created>1345834463100</created>
+      <updated>1345834463100</updated>
+    </task>
+    <task id="LOCAL-00016" summary="SIJH-5 some refactor in bpmn classes. Inheritance added (not final version)">
+      <created>1346169530101</created>
+      <updated>1346169530101</updated>
+    </task>
+    <task id="LOCAL-00017" summary="SIJH-5 Some styling to forms.">
+      <created>1346183667110</created>
+      <updated>1346183667110</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="0" width="1680" height="1026" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23830736" sideWeight="0.9190184" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16815145" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2951002" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494432" sideWeight="0.07668712" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20712695" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32182628" sideWeight="0.49754602" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26441717" sideWeight="0.7115813" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2884187" sideWeight="0.9190184" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="SIJH-5 Some styling to forms." />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="SIJH-3 Integrating js model with MySampleApplication" />
+    <MESSAGE value="SIJH-3 XML parse" />
+    <MESSAGE value="SIJH-3 Id from gwt side. ElementModed listener to update model information." />
+    <MESSAGE value="SIJH-3 Add sequence support." />
+    <MESSAGE value="SIJH-3 Load process from xpdl!" />
+    <MESSAGE value="SIJH-6 SmartGWT added" />
+    <MESSAGE value="SIJH-8 Tabs created, and some code cleanup." />
+    <MESSAGE value="SIJH-2 Add sequence working. Needs some refactor." />
+    <MESSAGE value="SIJH-2 Add or element." />
+    <MESSAGE value="SIJH-5 Changing properties of tasks working." />
+    <MESSAGE value="SIJH-10 Fixing bug on And element" />
+    <MESSAGE value="SIJH-10 added And element" />
+    <MESSAGE value="SIJH-12 and and or support added." />
+    <MESSAGE value="SIJH-5 And element is updated when properties are edited." />
+    <MESSAGE value="SIJH-5 some refactor in bpmn classes. Inheritance added (not final version)" />
+    <MESSAGE value="SIJH-5 Some styling to forms." />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/war/MySampleApplication.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="36" selection-start="2592" selection-end="2592" vertical-scroll-proportion="-8.333333">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/js/model/BPMNAnd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/bpmn/And.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/js/model/BPMNIntermediate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="50" selection-start="1636" selection-end="1636" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/js/model/Utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="1912" selection-end="1912" vertical-scroll-proportion="-48.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/AbstractPropertiesForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="27" selection-start="937" selection-end="937" vertical-scroll-proportion="-10.2">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1346183631000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/popup/PopUpManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="50" selection-start="817" selection-end="817" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1858#2098#0" expanded="true" />
+            <element signature="e#2087#2088#0" expanded="true" />
+            <element signature="e#2342#2553#0" expanded="true" />
+            <element signature="e#2542#2543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/DefaultPropertiesForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="13" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/core/JsObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="11" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.27857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/core/DataClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="11" selection-start="1340" selection-end="1340" vertical-scroll-proportion="0.27857143">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/core/RefDataClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="11" selection-start="1208" selection-end="1208" vertical-scroll-proportion="0.3">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/widgets/form/fields/TextItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="11" selection-start="2737" selection-end="2737" vertical-scroll-proportion="0.34463277">
+          <folding>
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/widgets/form/fields/ComboBoxItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="11" selection-start="4701" selection-end="4701" vertical-scroll-proportion="0.42937854">
+          <folding>
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/smartgwt.jar!/com/smartgwt/client/widgets/form/fields/FormItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4080" column="16" selection-start="213363" selection-end="213363" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1323687600000" expanded="true" signature="157541:158072" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="157711:158065" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="158203:158310" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="159805:160174" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="160037:160073" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="160079:160168" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="161776:162488" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="161955:162480" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="163245:163806" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="163418:163799" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="164099:164208" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="165019:165552" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="165190:165545" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="166228:166773" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="166405:166766" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="167398:167931" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="167569:167924" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="168071:168181" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="170099:170387" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="172517:173064" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="172909:173035" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="173814:173939" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="174190:174308" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="175001:175122" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="175516:175821" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="176108:176225" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="176509:176625" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="177435:177930" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="177762:177901" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="178485:178608" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="179583:179896" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="179759:179795" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="179801:179890" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="180110:180213" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="181004:181568" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="181179:181561" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="182402:183026" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="182580:183019" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="184571:184697" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="185019:185323" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="185186:185222" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="185228:185317" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="185595:185896" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="185759:185795" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="185801:185890" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="186371:186674" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="186537:186573" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="186579:186668" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="187666:188207" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="187841:188200" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="188883:189572" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="189063:189564" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="190259:190983" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="190440:190975" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="191641:192326" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="191819:192318" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="193009:193179" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="194717:195042" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="194905:194941" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="194947:195036" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="195256:195359" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="195580:195688" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="196382:196925" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="196558:196918" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="197674:198229" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="197856:198222" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="199242:199785" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="199418:199778" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="200284:200394" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="200619:200921" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="200784:200820" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="200826:200915" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="201501:201960" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="201629:201951" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="207510:207685" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="207752:208000" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="208069:208310" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="208381:208621" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="208694:208869" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="208947:209122" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="209191:209432" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="209505:209746" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="209820:209945" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="210020:210145" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="210216:210341" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="210415:210540" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="210624:210749" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="210798:210912" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="219005:219120" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="221705:221908" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="221808:221853" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="221859:221902" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="221962:222165" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222065:222110" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222116:222159" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222322:222525" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222425:222470" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222476:222519" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222680:222996" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222892:222939" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="222945:222990" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="223153:223356" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="223256:223301" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="223307:223350" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="223514:223717" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="223617:223662" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="223668:223711" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="225199:225402" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="225302:225347" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="225353:225396" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="225633:225895" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="225736:225849" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="225855:225889" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="226138:226346" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="226241:226300" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="226306:226340" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="226646:226849" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="226749:226804" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="226810:226843" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="227147:227349" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="227250:227304" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="227310:227343" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="227537:227843" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="227640:227795" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="227801:227837" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228005:228307" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228108:228259" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228265:228301" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228484:228631" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228587:228625" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228703:229107" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="228886:229059" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="229065:229101" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="229179:229591" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="229366:229543" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="229549:229585" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="229797:230312" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="229927:230179" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="230117:230169" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="230212:230283" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="234400:235146" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="234549:235137" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="235369:235899" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="235505:235890" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="235550:235600" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="236508:237446" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="236660:237438" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="237808:238471" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="237949:238462" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="238841:239505" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="238983:239496" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="239743:240041" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="239842:239993" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="239999:240035" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="240463:240736" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="240583:240630" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="240636:240677" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="241125:241278" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="241230:241272" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="242460:243395" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="242614:243386" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="244313:245253" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="244473:245245" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="245879:246634" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="246030:246625" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="247063:247412" placeholder="{...}" />
+            <marker date="1323687600000" expanded="true" signature="247198:247403" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/ElementFormsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="55" selection-start="936" selection-end="936" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/ui/forms/IntermediatePropertiesForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="16" selection-start="697" selection-end="697" vertical-scroll-proportion="0.39151713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>gwthtml5:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>GWT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GWT|gwthtml5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20000002" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
